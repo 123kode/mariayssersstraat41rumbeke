@@ -178,7 +178,7 @@
 
       statusEl.textContent = "Je e-mailprogramma wordt geopend om het bericht te versturen…";
       window.location.href =
-        "mailto:info@example.com?subject=" + subject + "&body=" + body;
+        "mailto:koen.dem@gmail.com?subject=" + subject + "&body=" + body;
 
       form.reset();
     });
