@@ -1,0 +1,1 @@
+Plaats alle woningfoto's in een map 'photos' in de repository. Gebruik de volgorde: voorgevel, straatbeeld, living, keuken, garage, berging, toilet, slaapkamers, badkamer, zolder.
